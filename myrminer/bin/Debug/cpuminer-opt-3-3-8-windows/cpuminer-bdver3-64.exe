@@ -1,0 +1,9 @@
+
+         **********  cpuminer-opt 3.3.8  *********** 
+     A CPU miner with multi algo support and optimized for CPUs
+     with AES_NI and AVX extensions.
+     BTC donation address: 12tdvfF7KmAsihBXQXynT6E6th2c2pByTT
+     Forked from TPruvot's cpuminer-multi with credits
+     to Lucas Jones, elmad, palmd, djm34, pooler, ig0tik3d,
+     Wolf0 and Jeff Garzik.
+

@@ -1,0 +1,1 @@
+cpuminer.exe -a lbry -o stratum+tcp://lbry.pool.mn:8878 -u yourworker.1 -p password

@@ -1,0 +1,1 @@
+hodlminer.exe -q -a hodl -o stratum+tcp://erc.suprnova.cc:7674 -u yourworker.1 -p password

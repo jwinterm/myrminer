@@ -1,0 +1,1 @@
+cpuminer -a lyra2re -o stratum+tcp://lyra2re.eu.nicehash.com:3342 -u 14vZ4DHDzhttzKyNAmLzpRq6VLmCGb16vX -p x

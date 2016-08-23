@@ -1,0 +1,1 @@
+hodlminer.exe -a hodl -o stratum+tcp://hodl.optiminer.pl:5555 -u HJjvw2PcreD8hA75CtQdfdSAngUSAqe9V5 -p x -q

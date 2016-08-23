@@ -1,0 +1,11 @@
+e:\src\myrminer\myrminer\myrminer\bin\Debug\myrminer.exe.config
+e:\src\myrminer\myrminer\myrminer\bin\Debug\myrminer.exe
+e:\src\myrminer\myrminer\myrminer\bin\Debug\myrminer.pdb
+e:\src\myrminer\myrminer\myrminer\bin\Debug\myrminer.xml
+e:\src\myrminer\myrminer\myrminer\obj\Debug\myrminer.vbprojResolveAssemblyReference.cache
+e:\src\myrminer\myrminer\myrminer\obj\Debug\myrminer.Form1.resources
+e:\src\myrminer\myrminer\myrminer\obj\Debug\myrminer.Resources.resources
+e:\src\myrminer\myrminer\myrminer\obj\Debug\myrminer.vbproj.GenerateResource.Cache
+e:\src\myrminer\myrminer\myrminer\obj\Debug\myrminer.exe
+e:\src\myrminer\myrminer\myrminer\obj\Debug\myrminer.xml
+e:\src\myrminer\myrminer\myrminer\obj\Debug\myrminer.pdb
