@@ -1,0 +1,11 @@
+E:\src\myrminer\myrminer\myrminer-esperanto\bin\Release\myrminer-esperanto.exe.config
+E:\src\myrminer\myrminer\myrminer-esperanto\bin\Release\myrminer-esperanto.exe
+E:\src\myrminer\myrminer\myrminer-esperanto\bin\Release\myrminer-esperanto.pdb
+E:\src\myrminer\myrminer\myrminer-esperanto\bin\Release\myrminer-esperanto.xml
+E:\src\myrminer\myrminer\myrminer-esperanto\obj\Release\myrminer_esperanto.Form1.resources
+E:\src\myrminer\myrminer\myrminer-esperanto\obj\Release\myrminer_esperanto.Resources.resources
+E:\src\myrminer\myrminer\myrminer-esperanto\obj\Release\myrminer-esperanto.vbproj.GenerateResource.Cache
+E:\src\myrminer\myrminer\myrminer-esperanto\obj\Release\myrminer-esperanto.exe
+E:\src\myrminer\myrminer\myrminer-esperanto\obj\Release\myrminer-esperanto.xml
+E:\src\myrminer\myrminer\myrminer-esperanto\obj\Release\myrminer-esperanto.pdb
+E:\src\myrminer\myrminer\myrminer-esperanto\obj\Release\myrminer-esperanto.vbprojResolveAssemblyReference.cache
